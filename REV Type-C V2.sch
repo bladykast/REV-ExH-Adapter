@@ -5,7 +5,7 @@ EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
-Title "FTC USB Type-C Adapter for Rev Expansion Hub"
+Title "FTC USB Type-C Adapter for REV Expansion Hub"
 Date "2019-08-19"
 Rev "v3"
 Comp "DoubleDIP; Copperforge"
