@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:REV Type-C V2-cache
 EELAYER 29 0
 EELAYER END
 $Descr USLetter 11000 8500
@@ -952,7 +951,7 @@ F 3 "" H 3400 3650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L REV-Type-C-V2-rescue:USB2422-Others-REV-Type-C-V2-rescue U1
+L ProjectSpecific:USB2422 U1
 U 1 1 5CE4110B
 P 1650 4300
 F 0 "U1" H 2000 2900 60  0000 C CNN
