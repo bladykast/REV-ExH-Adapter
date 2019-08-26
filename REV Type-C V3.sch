@@ -5,10 +5,10 @@ $Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "FTC USB Type-C Adapter for REV Expansion Hub"
-Date "2019-08-19"
+Date "2019-08-25"
 Rev "v3"
 Comp "DoubleDIP; Copperforge"
-Comment1 "Part Number: Cu//XXXX"
+Comment1 "Part Number: Cu//6C21"
 Comment2 "Schematic Status: Open Hardware"
 Comment3 "Author: Tom Bladykas, Benjamin Ward"
 Comment4 ""
